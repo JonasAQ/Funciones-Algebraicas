@@ -3,7 +3,6 @@
 %Author   :Jonatan Aparicio Quintanar
 %Date     :202123048
 %Version  :1.0
-%Notes    :
 
 %Dominio de la funcion
 x = - 20 : 1 : 20 ;
