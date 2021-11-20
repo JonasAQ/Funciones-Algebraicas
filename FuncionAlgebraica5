@@ -1,0 +1,13 @@
+%Octave Script
+%Title    :Graficar funciones polinomiales
+%Author   :Jonatan Aparicio Quintanar
+%Date     :202123048
+%Version  :1.0
+
+%Dominio de la funcion
+x = - 20 : 1 : 20 ;
+%Funcion
+y = ( 2. * x ) - 1 ;
+%Plotear Funcion 
+plot ( x , y )
+%Notes( " no hay valores para cero es una función racional " )
